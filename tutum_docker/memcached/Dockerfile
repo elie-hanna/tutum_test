@@ -1,4 +1,4 @@
-FROM apstrata/centos:6.6
+FROM tutum.co/eliehanna/centos:6.6
 
 MAINTAINER Elie Hanna <elie.hanna@elementn.com>
 
